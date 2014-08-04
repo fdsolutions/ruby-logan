@@ -1,2 +1,2 @@
 require "logan/version"
-require "logan/rake_tasks_builder"
+require "logan/rake_task"
